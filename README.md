@@ -1,4 +1,5 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
@@ -181,20 +182,21 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-LED OFF:
+## LED OFF :
 ![image](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/3f7f70c9-254f-472f-9d13-c9edb04d2716)
-LED ON:
+## LED ON  :
 ![Screenshot 2024-04-01 063042](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/7992fc21-8645-475b-8761-17022e65e6de)
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![image](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/11503e1e-6a5f-4466-87d5-251e21ed17e4)
+![image](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/19082554-48d2-4e6f-b997-ebf7d03823fa)
 
  
  
 ## Result :
+
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
 
