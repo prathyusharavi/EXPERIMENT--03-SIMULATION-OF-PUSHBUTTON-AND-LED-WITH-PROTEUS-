@@ -289,10 +289,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+LCD OFF:
 
 ![image](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/3cbb7a3d-2b8b-41ce-9617-703acd22b02b)
 
-
+LCD ON :
 ![image](https://github.com/prathyusharavi/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/147474424/0ea9d2b9-51f7-4f56-aaba-673270b0e811)
 
 
